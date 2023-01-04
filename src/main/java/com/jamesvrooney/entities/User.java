@@ -1,4 +1,4 @@
-package com.jamesvroonney.entities;
+package com.jamesvrooney.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,6 +1,6 @@
-package com.jamesvroonney.security;
+package com.jamesvrooney.security;
 
-import com.jamesvroonney.entities.User;
+import com.jamesvrooney.entities.User;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
