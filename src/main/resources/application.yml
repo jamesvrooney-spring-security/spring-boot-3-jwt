@@ -1,0 +1,13 @@
+spring:
+  output.ansi.enabled: always
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/spring-boot-3-jwt-2023
+    username: postgres
+    password: postgres
+
+  jpa:
+    properties.hibernate:
+      #      jdbc.lob.non_contextual_creation: true
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+
