@@ -1,4 +1,4 @@
-package com.jamesvrooney.security;
+package com.jamesvrooney.security.model;
 
 import com.jamesvrooney.entities.User;
 import lombok.AllArgsConstructor;
