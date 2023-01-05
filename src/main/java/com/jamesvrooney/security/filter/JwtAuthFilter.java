@@ -28,6 +28,7 @@ public class JwtAuthFilter extends OncePerRequestFilter {
             filterChain.doFilter(request, response);
         }
 
-        jwtService.extractUsername(jwt);
+//        TODO: Needs to be implemented
+//        jwtService.extractUsername(jwt);
     }
 }
